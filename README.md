@@ -1,1 +1,2 @@
-Building redux library
+Building a custom redux library for practice
+ 
